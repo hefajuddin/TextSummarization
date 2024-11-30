@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "content": "This is a long article or text that needs to be summarized."
+    },
+    {
+        "id": 2,
+        "content": "Another example text to demonstrate summarization."
+    }
+]
