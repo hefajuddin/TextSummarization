@@ -1,4 +1,4 @@
-from utils.data_loader import load_data
+# from utils.data_loader import load_data
 from models.llm_model import get_summarization_model
 from utils.summarization import summarize_text
 from config import CONFIG
